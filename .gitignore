@@ -1,0 +1,14 @@
+.venv/
+.env
+.env.*
+!.env.example
+.cache/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+data/
+runs/
+tmp/
+.DS_Store
+output/
+.playwright-cli/

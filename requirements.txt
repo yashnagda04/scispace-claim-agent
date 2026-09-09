@@ -1,0 +1,7 @@
+openai>=2.0,<3
+chromadb>=1.0,<2
+pypdf>=6.0,<7
+pymupdf4llm==1.28.2
+python-dotenv>=1.0,<2
+pydantic>=2.0,<3
+httpx>=0.28,<1
